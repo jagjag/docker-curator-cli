@@ -3,7 +3,7 @@
 Docker image for curator_cli.
 
 ```
-docker run --rm ricc/curator-cli:0.1.0 --help
+docker run --rm jagjag/curator-cli:5.5.1 --help
 ```
 
 https://www.elastic.co/guide/en/elasticsearch/client/curator/current/singleton-cli.html
